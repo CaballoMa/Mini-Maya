@@ -1,0 +1,6 @@
+Reference: https://en.cppreference.com/w/cpp/container/map
+Reference: https://en.cppreference.com/w/cpp/container/unordered_map
+Reference: https://doc.qt.io/qt-6/qlistwidget.html#addItem-1; https://doc.qt.io/qt-6/qlistwidget.html
+
+Learn QJsonArray from Reference: https://doc.qt.io/qt-6/qjsonarray.html
+Learn QJsonDocument Class from Reference: https://doc.qt.io/qt-6/qjsondocument.html
